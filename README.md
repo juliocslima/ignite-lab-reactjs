@@ -14,7 +14,12 @@
   </a>
 </p>
 
+# Ignite Lab ReactJS
+
 > Este projeto foi resultado do evento Ignite Lab promovido pela Rocketseat, onde criamos um plataforma de eventos para disponibilização de video aulas conforme cronograma
+
+<img src="/docs/home_page.png" alt="My cool logo"/>
+<img src="/docs/platform_page.png" alt="My cool logo"/>
 
 ### 🏠 [Homepage](https://github.com/juliocslima/ignite-lab-reactjs)
 
